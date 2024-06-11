@@ -1,0 +1,1097 @@
+MAJOR GROUP 1
+LEGISLATORS, SENIOR OFFICIALS AND MANAGERS
+
+11 LEGISLATORS AND SENIOR OFFICIALS
+
+111 LEGISLATORS
+
+1110 Legislators
+
+112 SENIOR GOVERNMENT OFFICIALS
+
+1120 Senior government officials
+
+113 TRADITIONAL CHIEFS AND HEADS OF VILLAGES
+
+1130 Traditional chiefs and heads of villages
+
+114 SENIOR OFFICIALS OF SPECIAL-INTEREST ORGANISATIONS
+
+1141 Senior officials of political-party organisations
+
+1142 Senior officials of employers', workers' and other economic-interest organisations
+
+1143 Senior officials of humanitarian and other special-interest organisations
+
+12 CORPORATE MANAGERS (This group is intended to include persons who - as directors, chief executives or department managers - manage enterprises or organisations, or departments, requiring a total of three or more managers.)
+
+121 DIRECTORS AND CHIEF EXECUTIVES
+
+1210 Directors and chief executives
+
+122 PRODUCTION AND OPERATIONS DEPARTMENT MANAGERS
+
+1221 Production and operations department managers in agriculture, hunting, forestry and fishing
+
+1222 Production and operations department managers in manufacturing
+
+1223 Production and operations department managers in construction
+
+1224 Production and operations department managers in wholesale and retail trade
+
+1225 Production and operations department managers in restaurants and hotels
+
+1226 Production and operations department managers in transport, storage and communications
+
+1227 Production and operations department managers in business services
+
+1228 Production and operations department managers in personal care, cleaning and related services
+
+1229 Production and operations department managers not elsewhere classified
+
+123 OTHER DEPARTMENT MANAGERS
+
+1231 Finance and administration department managers
+
+1232 Personnel and industrial relations department managers
+
+1233 Sales and marketing department managers
+
+1234 Advertising and public relations department managers
+
+1235 Supply and distribution department managers
+
+1236 Computing services department managers
+
+1237 Research and development department managers
+
+1239 Other department managers not elsewhere classified
+
+13 GENERAL MANAGERS (This group is intended to include persons who manage enterprises, or in some cases organisations, on their own behalf, or on behalf of the proprietor, with some non-managerial help and the assistance of no more than one other manager who should also be classified in this sub- major group as, in most cases, the tasks will be broader than those of a specialised manager in a larger enterprise or organisation. Non-managerial staff should be classified according to their specific tasks.
+
+131 GENERAL MANAGERS
+
+1311 General managers in agriculture, hunting, forestry/ and fishing
+
+1312 General managers in manufacturing
+
+1313 General managers in construction
+
+1314 General managers in wholesale and retail trade
+
+1315 General managers of restaurants and hotels
+
+1316 General managers in transport, storage and communications
+
+1317 General managers of business services
+
+1318 General managers in personal care, cleaning and related services
+
+1319 General managers not elsewhere classified
+
+MAJOR GROUP 2
+PROFESSIONALS
+
+21 PHYSICAL, MATHEMATICAL AND ENGINEERING SCIENCE PROFESSIONALS
+
+211 PHYSICISTS, CHEMISTS AND RELATED PROFESSIONALS
+
+2111 Physicists and astronomers
+
+2112 Meteorologists
+
+2113 Chemists
+
+2114 Geologists and geophysicists
+
+212 MATHEMATICIANS, STATISTICIANS AND RELATED PROFESSIONALS
+
+2121 Mathematicians and related professionals
+
+2122 Statisticians
+
+213 COMPUTING PROFESSIONALS
+
+2131 Computer systems designers and analysts
+
+2132 Computer programmers
+
+2139 Computing professionals not elsewhere classified
+
+214 ARCHITECTS, ENGINEERS AND RELATED PROFESSIONALS
+
+2141 Architects, town and traffic planners
+
+2142 Civil engineers
+
+2143 Electrical engineers
+
+2144 Electronics and telecommunications engineers
+
+2145 Mechanical engineers
+
+2146 Chemical engineers
+
+2147 Mining engineers, metallurgists and related professionals
+
+2148 Cartographers and surveyors
+
+2149 Architects, engineers and related professionals not elsewhere classified
+
+22 LIFE SCIENCE AND HEALTH PROFESSIONALS
+
+221 LIFE SCIENCE PROFESSIONALS
+
+2211 Biologists, botanists, zoologists and related professionals
+
+2212 Pharmacologists, pathologists and related professionals
+
+2213 Agronomists and related professionals
+
+222 HEALTH PROFESSIONALS (except nursing)
+
+2221 Medical doctors
+
+2222 Dentists
+
+2223 Veterinarians
+
+2224 Pharmacists
+
+2229 Health professionals (except nursing) not elsewhere classified
+
+223 NURSING AND MIDWIFERY PROFESSIONALS
+
+2230 Nursing and midwifery professionals
+
+23 TEACHING PROFESSIONALS
+
+231 COLLEGE, UNIVERSITY AND HIGHER EDUCATION TEACHING PROFESSIONALS
+
+2310 College, university and higher education teaching professionals
+
+232 SECONDARY EDUCATION TEACHING PROFESSIONALS
+
+2320 Secondary education teaching professionals
+
+233 PRIMARY AND PRE-PRIMARY EDUCATION TEACHING PROFESSIONALS
+
+2331 Primary education teaching professionals
+
+2332 Pre-primary education teaching professionals
+
+234 SPECIAL EDUCATION TEACHING PROFESSIONALS
+
+2340 Special education teaching professionals
+
+235 OTHER TEACHING PROFESSIONALS
+
+2351 Education methods specialists
+
+2352 School inspectors
+
+2359 Other teaching professionals not elsewhere classified
+
+24 OTHER PROFESSIONALS
+
+241 BUSINESS PROFESSIONALS
+
+2411 Accountants
+
+2412 Personnel and careers professionals
+
+2419 Business professionals not elsewhere classified
+
+242 LEGAL PROFESSIONALS
+
+2421 Lawyers
+
+2422 Judges
+
+2429 Legal professionals not elsewhere classified
+
+243 ARCHIVISTS, LIBRARIANS AND RELATED INFORMATION PROFESSIONALS
+
+2431 Archivists and curators
+
+2432 Librarians and related information professionals
+
+244 SOCIAL SCIENCE AND RELATED PROFESSIONALS
+
+2441 Economists
+
+2442 Sociologists, anthropologists and related professionals
+
+2443 Philosophers, historians and political scientists
+
+2444 Philologists, translators and interpreters
+
+2445 Psychologists
+
+2446 Social work professionals
+
+245 WRITERS AND CREATIVE OR PERFORMING ARTISTS
+
+2451 Authors, journalists and other writers
+
+2452 Sculptors, painters and related artists
+
+2453 Composers, musicians and singers
+
+2454 Choreographers and dancers
+
+2455 Film, stage and related actors and directors
+
+246 RELIGIOUS PROFESSIONALS
+
+2460 Religious professionals
+
+MAJOR GROUP 3
+TECHNICIANS AND ASSOCIATE PROFESSIONALS
+
+31 PHYSICAL AND ENGINEERING SCIENCE ASSOCIATE PROFESSIONALS
+
+311 PHYSICAL AND ENGINEERING SCIENCE TECHNICIANS
+
+3111 Chemical and physical science technicians
+
+3112 Civil engineering technicians
+
+3113 Electrical engineering technicians
+
+3114 Electronics and telecommunications engineering technicians
+
+3115 Mechanical engineering technicians
+
+3116 Chemical engineering technicians
+
+3117 Mining and metallurgical technicians
+
+3118 Draughtspersons
+
+3119 Physical and engineering science technicians not elsewhere classified
+
+312 COMPUTER ASSOCIATE PROFESSIONALS
+
+3121 Computer assistants
+
+3122 Computer equipment operators
+
+3123 Industrial robot controllers
+
+313 OPTICAL AND ELECTRONIC EQUIPMENT OPERATORS
+
+3131 Photographers and image and sound recording equipment operators
+
+3132 Broadcasting and telecommunications equipment operators
+
+3133 Medical equipment operators
+
+3139 Optical and electronic equipment operators not elsewhere classified
+
+314 SHIP AND AIRCRAFT CONTROLLERS AND TECHNICIANS
+
+3141 Ships' engineers
+
+3142 Ships' deck officers and pilots
+
+3143 Aircraft pilots and related associate professionals
+
+3144 Air traffic controllers
+
+3145 Air traffic safety technicians
+
+315 SAFETY AND QUALITY INSPECTORS
+
+3151 Building and fire inspectors
+
+3152 Safety, health and quality inspectors
+
+32 LIFE SCIENCE AND HEALTH ASSOCIATE PROFESSIONALS
+
+321 LIFE SCIENCE TECHNICIANS AND RELATED ASSOCIATE PROFESSIONALS
+
+3211 Life science technicians
+
+3212 Agronomy and forestry technicians
+
+3213 Farming and forestry advisers
+
+322 MODERN HEALTH ASSOCIATE PROFESSIONALS (except nursing)
+
+3221 Medical assistants
+
+3222 Sanitarians
+
+3223 Dieticians and nutritionists
+
+3224 Optometrists and opticians
+
+3225 Dental assistants
+
+3226 Physiotherapists and related associate professionals
+
+3227 Veterinary assistants
+
+3228 Pharmaceutical assistants
+
+3229 Modern health associate professionals (except nursing) not elsewhere classified
+
+323 NURSING AND MIDWIFERY ASSOCIATE PROFESSIONALS
+
+3231 Nursing associate professionals
+
+3232 Midwifery associate professionals
+
+324 TRADITIONAL MEDICINE PRACTITIONERS AND FAITH HEALERS
+
+3241 Traditional medicine practitioners
+
+3242 Faith healers
+
+33 TEACHING ASSOCIATE PROFESSIONALS
+
+331 PRIMARY EDUCATION TEACHING ASSOCIATE PROFESSIONALS
+
+3310 Primary education teaching associate professionals
+
+332 PRE-PRIMARY EDUCATION TEACHING ASSOCIATE PROFESSIONALS
+
+3320 Pre-primary education teaching associate professionals
+
+333 SPECIAL EDUCATION TEACHING ASSOCIATE PROFESSIONALS
+
+3330 Special education teaching associate professionals
+
+334 OTHER TEACHING ASSOCIATE PROFESSIONALS
+
+3340 Other teaching associate professionals
+
+34 OTHER ASSOCIATE PROFESSIONALS
+
+341 FINANCE AND SALES ASSOCIATE PROFESSIONALS
+
+3411 Securities and finance dealers and brokers
+
+3412 Insurance representatives
+
+3413 Estate agents
+
+3414 Travel consultants and organisers
+
+3415 Technical and commercial sales representatives
+
+3416 Buyers
+
+3417 Appraisers, valuers and auctioneers
+
+3419 Finance and sales associate professionals not elsewhere classified
+
+342 BUSINESS SERVICES AGENTS AND TRADE BROKERS
+
+3421 Trade brokers
+
+3422 Clearing and forwarding agents
+
+3423 Employment agents and labour contractors
+
+3429 Business services agents and trade brokers not elsewhere classified
+
+343 ADMINISTRATIVE ASSOCIATE PROFESSIONALS
+
+3431 Administrative secretaries and related associate professionals
+
+3432 Legal and related business associate professionals
+
+3433 Bookkeepers
+
+3434 Statistical, mathematical and related associate professionals
+
+3439 Administrative associate professionals not elsewhere classified
+
+344 CUSTOMS, TAX AND RELATED GOVERNMENT ASSOCIATE PROFESSIONALS
+
+3441 Customs and border inspectors
+
+3442 Government tax and excise officials
+
+3443 Government social benefits officials
+
+3444 Government licensing officials
+
+3449 Customs, tax and related government associate professionals not elsewhere classified
+
+345 POLICE INSPECTORS AND DETECTIVES
+
+3450 Police inspectors and detectives
+
+346 SOCIAL WORK ASSOCIATE PROFESSIONALS
+
+3460 Social work associate professionals
+
+347 ARTISTIC, ENTERTAINMENT AND SPORTS ASSOCIATE PROFESSIONALS
+
+3471 Decorators and commercial designers
+
+3472 Radio, television and other announcers
+
+3473 Street, night-club and related musicians, singers and dancers
+
+3474 Clowns, magicians, acrobats and related associate professionals
+
+3475 Athletes, sportspersons and related associate professionals
+
+348 RELIGIOUS ASSOCIATE PROFESSIONALS
+
+3480 Religious associate professionals
+
+MAJOR GROUP 4
+CLERKS
+
+41 OFFICE CLERKS
+
+411 SECRETARIES AND KEYBOARD-OPERATING CLERKS
+
+4111 Stenographers and typists
+
+4112 Word-processor and related operators
+
+4113 Data entry operators
+
+4114 Calculating-machine operators
+
+4115 Secretaries
+
+412 NUMERICAL CLERKS
+
+4121 Accounting and bookkeeping clerks
+
+4122 Statistical and finance clerks
+
+413 MATERIAL-RECORDING AND TRANSPORT CLERKS
+
+4131 Stock clerks
+
+4132 Production clerks
+
+4133 Transport clerks
+
+414 LIBRARY, MAIL AND RELATED CLERKS
+
+4141 Library and filing clerks
+
+4142 Mail carriers and sorting clerks
+
+4143 Coding, proof-reading and related clerks
+
+4144 Scribes and related workers
+
+419 OTHER OFFICE CLERKS
+
+4190 Other office clerks
+
+42 CUSTOMER SERVICES CLERKS
+
+421 CASHIERS, TELLERS AND RELATED CLERKS
+
+4211 Cashiers and ticket clerks
+
+4212 Tellers and other counter clerks
+
+4213 Bookmakers and croupiers
+
+4214 Pawnbrokers and money-lenders
+
+4215 Debt-collectors and related workers
+
+422 CLIENT INFORMATION CLERKS
+
+4221 Travel agency and related clerks
+
+4222 Receptionists and information clerks
+
+4223 Telephone switchboard operators
+
+MAJOR GROUP 5
+SERVICE WORKERS AND SHOP AND MARKET SALES WORKERS
+
+51 PERSONAL AND PROTECTIVE SERVICES WORKERS
+
+511 TRAVEL ATTENDANTS AND RELATED WORKERS
+
+5111 Travel attendants and travel stewards
+
+5112 Transport conductors
+
+5113 Travel guides
+
+512 HOUSEKEEPING AND RESTAURANT SERVICES WORKERS
+
+5121 Housekeepers and related workers
+
+5122 Cooks
+
+5123 Waiters, waitresses and bartenders
+
+513 PERSONAL CARE AND RELATED WORKERS
+
+5131 Child-care workers
+
+5132 Institution-based personal care workers
+
+5133 Home-based personal care workers
+
+5139 Personal care and related workers not elsewhere classified
+
+514 OTHER PERSONAL SERVICES WORKERS
+
+5141 Hairdressers, barbers, beauticians and related workers
+
+5142 Companions and valets
+
+5143 Undertakers and embalmers
+
+5149 Other personal services workers not elsewhere classified
+
+515 ASTROLOGERS, FORTUNE-TELLERS AND RELATED WORKERS
+
+5151 Astrologers and related workers
+
+5152 Fortune-tellers, palmists and related workers
+
+516 PROTECTIVE SERVICES WORKERS
+
+5161 Fire-fighters
+
+5162 Police officers
+
+5163 Prison guards
+
+5169 Protective services workers not elsewhere classified
+
+52 MODELS, SALESPERSONS AND DEMONSTRATORS
+
+521 FASHION AND OTHER MODELS
+
+5210 Fashion and other models
+
+522 SHOP SALESPERSONS AND DEMONSTRATORS
+
+5220 Shop salespersons and demonstrators
+
+523 STALL AND MARKET SALESPERSONS
+
+5230 Stall and market salespersons
+
+MAJOR GROUP 6
+SKILLED AGRICULTURAL AND FISHERY WORKERS
+
+61 MARKET-ORIENTED SKILLED AGRICULTURAL AND FISHERY WORKERS
+
+611 MARKET GARDENERS AND CROP GROWERS
+
+6111 Field crop and vegetable growers
+
+6112 Tree and shrub crop growers
+
+6113 Gardeners, horticultural and nursery growers
+
+6114 Mixed-crop growers
+
+612 MARKET-ORIENTED ANIMAL PRODUCERS AND RELATED WORKERS
+
+6121 Dairy and livestock producers
+
+6122 Poultry producers
+
+6123 Apiarists and sericulturists
+
+6124 Mixed-animal producers
+
+6129 Market-oriented animal producers and related workers not elsewhere classified
+
+613 MARKET-ORIENTED CROP AND ANIMAL PRODUCERS
+
+6130 Market-oriented crop and animal producers
+
+614 FORESTRY AND RELATED WORKERS
+
+6141 Forestry workers and loggers
+
+6142 Charcoal burners and related workers
+
+615 FISHERY WORKERS, HUNTERS AND TRAPPERS
+
+6151 Aquatic-life cultivation workers
+
+6152 Inland and coastal waters fishery workers
+
+6153 Deep-sea fishery workers
+
+6154 Hunters and trappers
+
+62 SUBSISTENCE AGRICULTURAL AND FISHERY WORKERS
+
+621 SUBSISTENCE AGRICULTURAL AND FISHERY WORKERS
+
+6210 Subsistence agricultural and fishery workers
+
+MAJOR GROUP 7
+CRAFT AND RELATED TRADES WORKERS
+
+71 EXTRACTION AND BUILDING TRADES WORKERS
+
+711 MINERS, SHOTFIRERS, STONE CUTTERS AND CARVERS
+
+7111 Miners and quarry workers
+
+7112 Shotfirers and blasters
+
+7113 Stone splitters, cutters and carvers
+
+712 BUILDING FRAME AND RELATED TRADES WORKERS
+
+7121 Builders, traditional materials
+
+7122 Bricklayers and stonemasons
+
+7123 Concrete placers, concrete finishers and related workers
+
+7124 Carpenters and joiners
+
+7129 Building frame and related trades workers not elsewhere classified
+
+713 BUILDING FINISHERS AND RELATED TRADES WORKERS
+
+7131 Roofers
+
+7132 Floor layers and tile setters
+
+7133 Plasterers
+
+7134 Insulation workers
+
+7135 Glaziers
+
+7136 Plumbers and pipe fitters
+
+7137 Building and related electricians
+
+714 PAINTERS, BUILDING STRUCTURE CLEANERS AND RELATED TRADES WORKERS
+
+7141 Painters and related workers
+
+7142 Varnishers and related painters
+
+7143 Building structure cleaners
+
+72 METAL, MACHINERY AND RELATED TRADES WORKERS
+
+721 METAL MOULDERS, WELDERS, SHEET-METAL WORKERS, STRUCTURAL- METAL PREPARERS, AND RELATED TRADES WORKERS
+
+7211 Metal moulders and coremakers
+
+7212 Welders and flamecutters
+
+7213 Sheet metal workers
+
+7214 Structural-metal preparers and erectors
+
+7215 Riggers and cable splicers
+
+7216 Underwater workers
+
+722 BLACKSMITHS, TOOL-MAKERS AND RELATED TRADES WORKERS
+
+7221 Blacksmiths, hammer-smiths and forging-press workers
+
+7222 Tool-makers and related workers
+
+7223 Machine-tool setters and setter-operators
+
+7224 Metal wheel-grinders, polishers and tool sharpeners
+
+723 MACHINERY MECHANICS AND FITTERS
+
+7231 Motor vehicle mechanics and fitters
+
+7232 Aircraft engine mechanics and fitters
+
+7233 Agricultural- or industrial-machinery mechanics and fitters
+
+724 ELECTRICAL AND ELECTRONIC EQUIPMENT MECHANICS AND FITTERS
+
+7241 Electrical mechanics and fitters
+
+7242 Electronics fitters
+
+7243 Electronics mechanics and servicers
+
+7244 Telegraph and telephone installers and servicers
+
+7245 Electrical line installers, repairers and cable jointers
+
+73 PRECISION, HANDICRAFT, PRINTING AND RELATED TRADES WORKERS
+
+731 PRECISION WORKERS IN METAL AND RELATED MATERIALS
+
+7311 Precision-instrument makers and repairers
+
+7312 Musical instrument makers and tuners
+
+7313 Jewellery and precious-metal workers
+
+732 POTTERS, GLASS-MAKERS AND RELATED TRADES WORKERS
+
+7321 Abrasive wheel formers, potters and related workers
+
+7322 Glass makers, cutters, grinders and finishers
+
+7323 Glass engravers and etchers
+
+7324 Glass, ceramics and related decorative painters
+
+733 HANDICRAFT WORKERS IN WOOD,TEXTILE, LEATHER AND RELATED MATERIALS
+
+7331 Handicraft workers in wood and related materials
+
+7332 Handicraft workers in textile, leather and related materials
+
+734 PRINTING AND RELATED TRADES WORKERS
+
+7341 Compositors, typesetters and related workers
+
+7342 Stereotypers and electrotypers
+
+7343 Printing engravers and etchers
+
+7344 Photographic and related workers
+
+7345 Bookbinders and related workers
+
+7346 Silk-screen, block and textile printers
+
+74 OTHER CRAFT AND RELATED TRADES WORKERS
+
+741 FOOD PROCESSING AND RELATED TRADES WORKERS
+
+7411 Butchers, fishmongers and related food preparers
+
+7412 Bakers, pastry-cooks and confectionery makers
+
+7413 Dairy-products makers
+
+7414 Fruit, vegetable and related preservers
+
+7415 Food and beverage tasters and graders
+
+7416 Tobacco preparers and tobacco products makers
+
+742 WOOD TREATERS, CABINET-MAKERS AND RELATED TRADES WORKERS
+
+7421 Wood treaters
+
+7422 Cabinet makers and related workers
+
+7423 Woodworking machine setters and setter-operators
+
+7424 Basketry weavers, brush makers and related workers
+
+743 TEXTILE, GARMENT AND RELATED TRADES WORKERS
+
+7431 Fibre preparers
+
+7432 Weavers, knitters and related workers
+
+7433 Tailors, dressmakers and hatters
+
+7434 Furriers and related workers
+
+7435 Textile, leather and related pattern-makers and cutters
+
+7436 Sewers, embroiderers and related workers
+
+7437 Upholsterers and related workers
+
+744 PELT, LEATHER AND SHOEMAKING TRADES WORKERS
+
+7441 Pelt dressers, tanners and fellmongers
+
+7442 Shoe-makers and related workers
+
+MAJOR GROUP 8
+PLANT AND MACHINE OPERATORS AND ASSEMBLERS
+
+81 STATIONARY-PLANT AND RELATED OPERATORS
+
+811 MINING- AND MINERAL-PROCESSING-PLANT OPERATORS
+
+8111 Mining-plant operators
+
+8112 Mineral-ore- and stone-processing-plant operators
+
+8113 Well drillers and borers and related workers
+
+812 METAL-PROCESSING-PLANT OPERATORS
+
+8121 Ore and metal furnace operators
+
+8122 Metal melters, casters and rolling-mill operators
+
+8123 Metal-heat-treating-plant operators
+
+8124 Metal drawers and extruders
+
+813 GLASS, CERAMICS AND RELATED PLANT OPERATORS
+
+8131 Glass and ceramics kiln and related machine operators
+
+8139 Glass, ceramics and related plant operators not elsewhere classified
+
+814 WOOD-PROCESSING- AND PAPERMAKING-PLANT OPERATORS
+
+8141 Wood-processing-plant operators
+
+8142 Paper-pulp plant operators
+
+8143 Papermaking-plant operators
+
+815 CHEMICAL-PROCESSING-PLANT OPERATORS
+
+8151 Crushing-, grinding- and chemical-mixing-machinery operators
+
+8152 Chemical-heat-treating-plant operators
+
+8153 Chemical-filtering- and separating-equipment operators
+
+8154 Chemical-still and reactor operators (except petroleum and natural gas)
+
+8155 Petroleum- and natural-gas-refining-plant operators
+
+8159 Chemical-processing-plant operators not elsewhere classified
+
+816 POWER-PRODUCTION AND RELATED PLANT OPERATORS
+
+8161 Power-production plant operators
+
+8162 Steam-engine and boiler operators
+
+8163 Incinerator, water-treatment and related plant operators
+
+817 AUTOMATED-ASSEMBLY-LINE AND INDUSTRIAL-ROBOT OPERATORS
+
+8171 Automated-assembly-line operators
+
+8172 Industrial-robot operators
+
+82 MACHINE OPERATORS AND ASSEMBLERS
+
+821 METAL- AND MINERAL-PRODUCTS MACHINE OPERATORS
+
+8211 Machine-tool operators
+
+8212 Cement and other mineral products machine operators
+
+822 CHEMICAL-PRODUCTS MACHINE OPERATORS
+
+8221 Pharmaceutical- and toiletry-products machine operators
+
+8222 Ammunition- and explosive-products machine operators
+
+8223 Metal finishing-, plating- and coating-machine operators
+
+8224 Photographic-products machine operators
+
+8229 Chemical-products machine operators not elsewhere classified
+
+823 RUBBER- AND PLASTIC-PRODUCTS MACHINE OPERATORS
+
+8231 Rubber-products machine operators
+
+8232 Plastic-products machine operators
+
+824 WOOD-PRODUCTS MACHINE OPERATORS
+
+8240 Wood-products machine operators
+
+825 PRINTING-, BINDING- AND PAPER-PRODUCTS MACHINE OPERATORS
+
+8251 Printing-machine operators
+
+8252 Bookbinding-machine operators
+
+8253 Paper-products machine operators
+
+826 TEXTILE-, FUR- AND LEATHER-PRODUCTS MACHINE OPERATORS
+
+8261 Fibre-preparing-, spinning- and winding-machine operators
+
+8262 Weaving- and knitting-machine operators
+
+8263 Sewing-machine operators
+
+8264 Bleaching-, dyeing- and cleaning-machine operators
+
+8265 Fur and leather-preparing-machine operators
+
+8266 Shoemaking- and related machine operators
+
+8269 Textile-, fur- and leather-products machine operators not elsewhere classified
+
+827 FOOD AND RELATED PRODUCTS MACHINE OPERATORS
+
+8271 Meat- and fish-processing-machine operators
+
+8272 Dairy-products machine operators
+
+8273 Grain- and spice-milling-machine operators
+
+8274 Baked-goods, cereal and chocolate-products machine operators
+
+8275 Fruit-, vegetable- and nut-processing-machine operators
+
+8276 Sugar production machine operators
+
+8277 Tea-, coffee-, and cocoa-processing-machine operators
+
+8278 Brewers, wine and other beverage machine operators
+
+8279 Tobacco production machine operators
+
+828 ASSEMBLERS
+
+8281 Mechanical-machinery assemblers
+
+8282 Electrical-equipment assemblers
+
+8283 Electronic-equipment assemblers
+
+8284 Metal-, rubber- and plastic-products assemblers
+
+8285 Wood and related products assemblers
+
+8286 Paperboard, textile and related products assemblers
+
+829 OTHER MACHINE OPERATORS AND ASSEMBLERS
+
+8290 Other machine operators and assemblers
+
+83 DRIVERS AND MOBILE-PLANT OPERATORS
+
+831 LOCOMOTIVE-ENGINE DRIVERS AND RELATED WORKERS
+
+8311 Locomotive-engine drivers
+
+8312 Railway brakers, signallers and shunters
+
+832 MOTOR-VEHICLE DRIVERS
+
+8321 Motor-cycle drivers
+
+8322 Car, taxi and van drivers
+
+8323 Bus and tram drivers
+
+8324 Heavy-truck and lorry drivers
+
+833 AGRICULTURAL AND OTHER MOBILE-PLANT OPERATORS
+
+8331 Motorised farm and forestry plant operators
+
+8332 Earth-moving- and related plant operators
+
+8333 Crane, hoist and related plant operators
+
+8334 Lifting-truck operators
+
+834 SHIPS' DECK CREWS AND RELATED WORKERS
+
+8340 Ships' deck crews and related workers
+
+MAJOR GROUP 9
+ELEMENTARY OCCUPATIONS
+
+91 SALES AND SERVICES ELEMENTARY OCCUPATIONS
+
+911 STREET VENDORS AND RELATED WORKERS
+
+9111 Street food vendors
+
+9112 Street vendors, non-food products
+
+9113 Door-to-door and telephone salespersons
+
+912 SHOE CLEANING AND OTHER STREET SERVICES ELEMENTARY OCCUPATIONS
+
+9120 Shoe cleaning and other street services elementary occupations
+
+913 DOMESTIC AND RELATED HELPERS, CLEANERS AND LAUNDERERS
+
+9131 Domestic helpers and cleaners
+
+9132 Helpers and cleaners in offices, hotels and other establishments
+
+9133 Hand-launderers and pressers
+
+914 BUILDING CARETAKERS, WINDOW AND RELATED CLEANERS
+
+9141 Building caretakers
+
+9142 Vehicle, window and related cleaners
+
+915 MESSENGERS, PORTERS, DOORKEEPERS AND RELATED WORKERS
+
+9151 Messengers, package and luggage porters and deliverers
+
+9152 Doorkeepers, watchpersons and related workers
+
+9153 Vending-machine money collectors, meter readers and related workers
+
+916 GARBAGE COLLECTORS AND RELATED LABOURERS
+
+9161 Garbage collectors
+
+9162 Sweepers and related labourers
+
+92 AGRICULTURAL, FISHERY AND RELATED LABOURERS
+
+921 AGRICULTURAL, FISHERY AND RELATED LABOURERS
+
+9211 Farm-hands and labourers
+
+9212 Forestry labourers
+
+9213 Fishery, hunting and trapping labourers
+
+93 LABOURERS IN MINING, CONSTRUCTION, MANUFACTURING AND TRANSPORT
+
+931 MINING AND CONSTRUCTION LABOURERS
+
+9311 Mining and quarrying labourers
+
+9312 Construction and maintenance labourers: roads, dams and similar constructions
+
+9313 Building construction labourers
+
+932 MANUFACTURING LABOURERS
+
+9321 Assembling labourers
+
+9322 Hand packers and other manufacturing labourers
+
+933 TRANSPORT LABOURERS AND FREIGHT HANDLERS
+
+9331 Hand or pedal vehicle drivers
+
+9332 Drivers of animal-drawn vehicles and machinery
+
+9333 Freight handlers
+
+MAJOR GROUP 0
+ARMED FORCES
+
+01 ARMED FORCES
+
+011 ARMED FORCES
+
+0110 Armed forces
