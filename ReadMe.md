@@ -1,5 +1,4 @@
-
-This folder creates a  dataset to translate the isco codes to their corresponding label-names for all detail levels
+This folder creates a  dataset to translate the International Standard Classification of Occupations (ISCO) codes to their corresponding label-names for all detail levels
 
 structure08.docx which contains this information was downloaded from:
 http://www.ilo.org/public/english/bureau/stat/isco/docs/structure08.docx
